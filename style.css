@@ -92,6 +92,6 @@ h1{font-size: 40px;}
 h2{text-align: center;
 font-size: 40px;}
 p{text-align: center;}
-img{display: none;}
+.hide-on-mobile{display: none;}
   }
   
