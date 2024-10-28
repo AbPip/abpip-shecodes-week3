@@ -89,5 +89,7 @@
 
   @media (maxwidth: 430px){
 h1{font-size: 300px;}
+h2{text-align: center;}
+p{text-align: center;}
   }
   
