@@ -92,7 +92,7 @@ h1{font-size: 40px;}
 h2{text-align: center;
 font-size: 40px;}
 p{text-align: center;}
-.primary-link{text-align: center;}
+.primary-link{align-content: center;}
 .col-6 {width: 100%;}
 .image {display: none;}
   }
